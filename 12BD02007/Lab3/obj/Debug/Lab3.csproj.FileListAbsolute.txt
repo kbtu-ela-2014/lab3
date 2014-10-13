@@ -1,0 +1,9 @@
+C:\Home\Lab3\Lab3\bin\Lab3.dll
+C:\Home\Lab3\Lab3\bin\Lab3.pdb
+C:\Home\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Home\Lab3\Lab3\obj\Debug\Lab3.dll
+C:\Home\Lab3\Lab3\obj\Debug\Lab3.pdb
+F:\Lab3\Lab3\bin\Lab3.dll
+F:\Lab3\Lab3\bin\Lab3.pdb
+F:\Lab3\Lab3\obj\Debug\Lab3.dll
+F:\Lab3\Lab3\obj\Debug\Lab3.pdb
