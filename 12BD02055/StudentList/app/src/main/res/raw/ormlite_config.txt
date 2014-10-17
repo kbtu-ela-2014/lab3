@@ -1,0 +1,23 @@
+#
+# generated on 2014/10/09 09:29:57
+#
+# --table-start--
+dataClass=kz.studentlist.app.Student
+tableName=student
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --field-start--
+fieldName=surname
+# --field-end--
+# --field-start--
+fieldName=studentId
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
