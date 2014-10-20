@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/hibernate-3.2.6.ga.jar" sourcepath="src/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/hibernate-3.2.6.ga-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/hibernate-3.2.6.ga-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/cglib-nodep-2.1_3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/commons-collections-3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/commons-collections-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/jta-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/log4j-1.2.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/slf4j-api-1.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/slf4j-api-1.5.2-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre7/lib/slf4j-simple-1.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/org-apache-commons-logging-1.0.4-201003011305.jar (1)/org-apache-commons-logging-1.0.4-201003011305.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/org.apache.commons.logging-1.1.3.jar/org.apache.commons.logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/org.apache.commons.logging-1.1.3.jar/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/hibernate-annotations-3.4.0.jar/hibernate-annotations-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/hibernate-commons-annotations.jar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/hibernate-commons-annotations.jar/forge-javaee-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/java_ee_sdk-7u1/glassfish4/glassfish/lib/javaee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/111/Pictures/Sveta/KBTU/3semestr/Object-Oriented programming/eclipse/antlr-2.7.5H3.jar/antlr-2.7.5H3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
